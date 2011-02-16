@@ -1,0 +1,10 @@
+#labels Featured,legal
+  * [http://www.pardus.org.tr/yasal/ Pardus markası] ve [http://cekirdek.uludag.org.tr/~umut/pardus-logo/ logosu] TÜBİTAK'ın tescilli markasıdır. İzin alınmaksızın herhangi bir faaliyette kullanılamaz. Görsel malzemeler kişisel kullanım için çoğaltılabilirler.
+
+  * Arkaplan resminin lisansı bilinmiyor. [http://www.google.com.tr/images?q=keygen Google Görseller]'den alınmıştır.
+
+  * Kullanılan arkaplan müziği ACME - GetSmilekg'dır. Lisansı bilinmiyor. [http://www.eksisozluk.com/show.asp?t=keygen+music Ekşi Sözlük]'te bulunmuştur. [http://www.youtube.com/results?search_query=ACME+-+GetSmilekg YouTube] üzerinden doya doya dinlenebilir.
+
+  * Çıkış düğmesi simgesi (application-exit.png), [http://www.oxygen-icons.org Oxygen]'den alınmıştır. Oxygen simge teması [http://www.oxygen-icons.org/?page_id=4 iki lisanslıdır]. Creative Common Attribution-ShareAlike 3.0 License veya GNU Library General Public License altında kopyalanabilir.
+
+  * Kod, [http://www.ozgurlukicin.com/haber/ne-halt-edersen-et-kamu-lisansi/ WTFPL]'dir. Sadece, NE HALT EDERSEN ET.
